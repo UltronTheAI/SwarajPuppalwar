@@ -1,0 +1,88 @@
+{
+    "projects": [
+        {
+            "_id": "63a5e68eaf745b05d4b6c145",
+            "title": "My new web !",
+            "snippet": "Now, you can contact me and read my blogs !",
+            "body": "Now, you can contact me and read my blogs !",
+            "image": "/data/images/1.jpeg",
+            "date": "23 Dec, 2022",
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1671816846132"
+                }
+            },
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1671816846132"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": "63a6bbe442a96165b3e66056",
+            "title": "Pymon",
+            "snippet": "Increase productivity and save time in PYTHON with PYMON",
+            "body": "Pymon is open source, and created for python developers, Github repo: <a href=\"https://github.com/UltronTheAI/Pymon-4.0.0\">Pymon-Github-Repo</a>",
+            "image": "/data/images/2.png",
+            "date": "24 Dec, 2022",
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1671871460698"
+                }
+            },
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1671871460698"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": "63a6bc8d42a96165b3e66058",
+            "title": "Super - Maths",
+            "snippet": "Increase calculation speed with ` SUPER-MATHS `",
+            "body": "Super - Maths is created for increasing calculation speed in maths, Github repo: <a href=\"https://github.com/UltronTheAI/Super-Maths\">Super-Maths-Github-Repo</a>",
+            "image": "/data/images/3.jpg",
+            "date": "24 Dec, 2022",
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1671871629899"
+                }
+            },
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1671871629899"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        },
+        {
+            "_id": "63a6e3de80055c23097ae323",
+            "title": "FileShare",
+            "snippet": "Share files between devices !",
+            "body": "In this app you have to pass you'r ipv4 in '.env' file given below and \n        run the 'index.js' with installing all the packages.\n        \n<div><br><br><h1>Downloads:</h1><a style=\"margin: 6px;\" href=\"https://drive.google.com/drive/folders/1qQyADKo9FROpOO5gfFmzuV3uWy7051Ub?usp=sharing\">DownloadEXE</a><a href=\"https://github.com/UltronTheAI/FileShare\">Github-repo</a></div>\n",
+            "image": "/data/images/4.jpg",
+            "date": "24 Dec, 2022",
+            "createdAt": {
+                "$date": {
+                    "$numberLong": "1671881694701"
+                }
+            },
+            "updatedAt": {
+                "$date": {
+                    "$numberLong": "1671881694701"
+                }
+            },
+            "__v": {
+                "$numberInt": "0"
+            }
+        }
+    ]
+}
