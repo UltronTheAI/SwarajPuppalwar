@@ -10,5 +10,5 @@
 </div>
 
 ```sh
-$ xdg-open "https://swarajpuppalwar.tech"
+$ xdg-open "https://swarajpuppalwar.onrender.com"
 ```
