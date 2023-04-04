@@ -14,7 +14,7 @@ async function post() {
         })
     })
     .then(response => {
-        fetch(`./result/index.html`)
+        fetch(`/contact/result/index.html`)
         .then(response => response.text())
         .then(data => {
             if (response.ok) {
