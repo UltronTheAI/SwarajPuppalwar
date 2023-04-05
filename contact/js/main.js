@@ -12,7 +12,7 @@ async function post() {
             email: email,
             text: text
         })
-    })
+    }); document.querySelector('.a3').style.display="none";document.querySelector('.a2').style.display="none";document.querySelector('.a1').style.display="none";document.querySelector('.a4').style.display="none";document.querySelector('.abc').style.display="flex";
     .then(response => {
         fetch(`/contact/result/index.html`)
         .then(response => response.text())
