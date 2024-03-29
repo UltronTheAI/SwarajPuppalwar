@@ -7,7 +7,7 @@ function managePosts(posts) {
         blog.innerHTML += '<div id="' + String(n) + '" class="hover:translate-y-1" onclick="openPost(' + String(n) + ')">\
         <div class="overflow-hidden rounded-md bg-slate-800">\
           <div class="image aspect-w-3 aspect-h-2"><img class="h-full w-full object-cover object-center"\
-              src="' + post.image + '" alt="Image post" loading="lazy" /></div>\
+              src="https://ultrontheai.github.io/SwarajPuppalwar' + post.image + '" alt="Image post" loading="lazy" /></div>\
           <div class="px-3 pt-4 pb-6 text-center">\
             <h2 class="tittle text-xl font-semibold">' + post.title + '</h2>\
             <div class="date mt-1 text-xs text-gray-400">' + post.date + '</div>\
